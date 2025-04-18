@@ -22,7 +22,7 @@ A Easy tool for comic translation. Reduce communication costs of translator. Exp
 
 导出脚本：
 - [导出Photoshop档中的文本图层到LabelPlus文本](https://github.com/LabelPlus/PS-Script/blob/master/psd-to-labelplus-text.jsx)
-- [导出Indesign文档中的文本到LabelPlus文本（by几千块）](hhttps://github.com/jqk4388/Mangahanhua-Scripts-for-Indesign/blob/master/%E6%96%87%E6%9C%AC%E4%BF%AE%E6%94%B9/%E6%94%B6%E9%9B%86%E6%96%87%E6%A1%A3%E4%B8%AD%E7%9A%84%E6%96%87%E6%9C%AC%E5%B8%A6%E5%9D%90%E6%A0%87%E5%AF%BC%E5%87%BAID2LPtxt.jsx)
+- [导出Indesign文档中的文本到LabelPlus文本（by几千块）](https://github.com/jqk4388/Mangahanhua-Scripts-for-Indesign/blob/master/%E6%96%87%E6%9C%AC%E4%BF%AE%E6%94%B9/%E6%94%B6%E9%9B%86%E6%96%87%E6%A1%A3%E4%B8%AD%E7%9A%84%E6%96%87%E6%9C%AC%E5%B8%A6%E5%9D%90%E6%A0%87%E5%AF%BC%E5%87%BAID2LPtxt.jsx)
 
 ## 其他LabelPlus实现
 
