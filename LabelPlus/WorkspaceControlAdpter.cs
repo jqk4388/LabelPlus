@@ -169,6 +169,8 @@ namespace LabelPlus
             AddLabelCommand addLabelCommand = new AddLabelCommand(AddLabel, DeleteLabel, label);
             UndoRedoManager.LabelCommandPool.Register(addLabelCommand);
             addLabelCommand.Excute();
+            // 激活 TranslateTextBox 文本框
+            textbox.Focus();
         }
 
         private void DeleteLabelCommand(PicView.LabelUserActionEventArgs e)
