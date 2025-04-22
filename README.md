@@ -31,7 +31,7 @@ A Easy tool for comic translation. Reduce communication costs of translator. Exp
 - [PDF注释导出脚本（by几千块）](https://github.com/jqk4388/PDF-annotations-2-LPTXT)  
 
 使用[气泡翻译器](https://github.com/dmMaze/BallonsTranslator)运用AI处理漫画的标号、翻译的Json文件，导出LabelPlus格式文本。
-- [Json转LPtxt脚本（by几千块）](https://github.com/jqk4388/PDF-annotations-2-LPTXT/blob/main/%E6%B0%94%E6%B3%A1%E7%BF%BB%E8%AF%91%E5%99%A8json%E8%BD%AClptxt.py)                        
+- [Json转LPtxt脚本（by几千块）](https://github.com/jqk4388/PS-Script-BallonsTranslator/blob/main/%E6%B0%94%E6%B3%A1%E7%BF%BB%E8%AF%91%E5%99%A8json%E8%BD%AClptxt.py)                        
 
 **项目目前处于开发停滞的状态，如果有更多功能需求，请多了解一下以下类似项目**            
 
