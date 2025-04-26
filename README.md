@@ -28,7 +28,7 @@ A Easy tool for comic translation. Reduce communication costs of translator. Exp
 
 翻译使用Acrobat、福昕、WPS等各种PDF阅读器将翻译写在注释中，嵌字导出PDF注释为LabelPlus格式文本。
 
-- [PDF注释导出脚本（by几千块）](https://github.com/jqk4388/PDF-annotations-2-LPTXT)  
+- [PDF注释导出脚本（by几千块）](https://github.com/jqk4388/manga-PDF-Script/tree/main/%E5%AF%BC%E5%87%BA%E6%B3%A8%E9%87%8A)  
 
 使用[气泡翻译器](https://github.com/dmMaze/BallonsTranslator)运用AI处理漫画的标号、翻译的Json文件，导出LabelPlus格式文本。
 - [Json转LPtxt脚本（by几千块）](https://github.com/jqk4388/PS-Script-BallonsTranslator/blob/main/%E6%B0%94%E6%B3%A1%E7%BF%BB%E8%AF%91%E5%99%A8json%E8%BD%AClptxt.py)                        
